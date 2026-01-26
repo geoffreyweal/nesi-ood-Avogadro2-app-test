@@ -24,16 +24,22 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="2.4930897"
-   inkscape:cx="98.8733"
-   inkscape:cy="110.50545"
-   inkscape:window-width="1584"
-   inkscape:window-height="1066"
+   inkscape:cx="98.472189"
+   inkscape:cy="111.10711"
+   inkscape:window-width="1920"
+   inkscape:window-height="1187"
    inkscape:window-x="2204"
-   inkscape:window-y="216"
+   inkscape:window-y="188"
    inkscape:window-maximized="0"
    inkscape:current-layer="svg2" />
     
-<image
+<rect
+   style="fill:#ffffff;stroke:#ffffff;stroke-width:1.00231"
+   id="rect1"
+   width="170.50369"
+   height="170.00739"
+   x="0.49630406"
+   y="0.49630406" /><image
    width="170.87712"
    height="135.96674"
    preserveAspectRatio="none"
